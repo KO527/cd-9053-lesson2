@@ -18,7 +18,9 @@
   "homepage": "https://github.com/ericpkatz/cd-9053-lesson2",
   "dependencies": {
     "jasmine": "^2.2.1",
-    "karma": "^0.12.31"
+    "karma": "^0.12.31",
+    "karma-cli": "0.0.4",
+    "karma-story-reporter": "^0.3.1"
   },
   "devDependencies": {
     "jasmine-core": "^2.2.0",
