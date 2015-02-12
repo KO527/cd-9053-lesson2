@@ -1,12 +1,3 @@
-var Calculator = {
-    foo: "bar",
-    add: function(a, b){
-        return a + b;
-    },
-    subtract: function(a, b){
-       return a - b; 
-    }
-};
 describe("Calculator", function(){
    it("Calculator is defined", function(){
      expect(Calculator).toBeDefined();  
